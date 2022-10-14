@@ -19,6 +19,11 @@ Step 5:
 End the program.
 ### PROGRAM:
 ```
+
+#Program to calculate the distance between two points.
+#Developed by: PRAKASH R
+#RegisterNumber: 22004108
+
 import math
 l1= [10,6]
 l2=[4,2]
