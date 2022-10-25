@@ -37,4 +37,8 @@ print ("{:.2f}".format(distance))
 ### OUTPUT:
 ![MODEL](/OP.png)
 
+### result:
+
+Thus, the distance between two points is calculated.
+
 
